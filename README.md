@@ -1,6 +1,4 @@
 # Metasploit-framework
-# Metasploit Framework HackTheBox Report
-
 ## Author
 **Daniel Mwendwa Mwithui**  
 Security Analyst | HackTheBox Enthusiast  
